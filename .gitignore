@@ -55,3 +55,6 @@ dkms.conf
 *.dwo
 /Aoc2025/.vs
 /Aoc2025/Aoc2025/obj
+/.vs
+/Aoc2025/AdventUtility/bin/Debug/net9.0
+/Aoc2025/AdventUtility/obj
