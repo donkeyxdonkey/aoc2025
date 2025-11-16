@@ -58,3 +58,6 @@ dkms.conf
 /.vs
 /Aoc2025/AdventUtility/bin/Debug/net9.0
 /Aoc2025/AdventUtility/obj
+/Aoc2025/Aoc2025/Input
+/Aoc2025/Aoc2025/Test
+/Aoc2025/Aoc2025/bin/Debug/net9.0
