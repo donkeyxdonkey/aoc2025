@@ -53,3 +53,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+/Aoc2025/.vs
+/Aoc2025/Aoc2025/obj
